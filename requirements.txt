@@ -3,3 +3,7 @@ pandas
 pytest
 scikit-learn
 xlrd
+ipykernel
+tqdm
+matplotlib
+tqdm_joblib
